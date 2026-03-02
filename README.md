@@ -43,5 +43,5 @@ This project is a deep dive into e-commerce unit economics and user behavior. Mo
 
 ## 👤 Author
 **Kaone Edward**
-*   [LinkedIn](https://www.linkedin.com)
-*   [GitHub](https://github.com)
+*   [LinkedIn][(https://www.linkedin.com](https://www.linkedin.com/in/kaone-edward-bbb820197/))
+*   [GitHub](https://github.com/KaoneData)
